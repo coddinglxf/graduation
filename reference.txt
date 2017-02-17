@@ -27,4 +27,7 @@
 27：Shen Y, He X, Gao J, et al. Learning semantic representations using convolutional neural networks for web search[C]//Proceedings of the 23rd International Conference on World Wide Web. ACM, 2014: 373-374.---------神经网络在问答系统，知识检索领域的应用
 28：Kalchbrenner N, Grefenstette E, Blunsom P. A convolutional neural network for modelling sentences[J]. arXiv preprint arXiv:1404.2188, 2014.-------神经网络模型在句子建模方面的应用
 29：Suykens J A K, Vandewalle J. Least squares support vector machine classifiers[J]. Neural processing letters, 1999, 9(3): 293-300.--------讲的SVM
-30：
+30：Bunescu R C, Mooney R J. A shortest path dependency kernel for relation extraction[C]//Proceedings of the conference on human language technology and empirical methods in natural language processing. Association for Computational Linguistics, 2005: 724-731.---------sdp包含足够的信息来实现关系抽取
+31：Bunescu R, Ge R, Kate R J, et al. Comparative experiments on learning information extractors for proteins and their interactions[J]. Artificial intelligence in medicine, 2005, 33(2): 139-155.--------------------Aimed标注的数据集
+32：Giuliano C, Lavelli A, Romano L. Exploiting shallow linguistic information for relation extraction from biomedical literature[C]//EACL. 2006, 18(2006): 401-408.------------------混合核函数对比时候的shallow kernel
+33：Kim S, Yoon J, Yang J, et al. Walk-weighted subsequence kernels for protein-protein interaction extraction[J]. BMC bioinformatics, 2010, 11(1): 107.---------混合核函数对比时候的walk weight kernel
