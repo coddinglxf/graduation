@@ -1,0 +1,30 @@
+﻿1：Kim S, Liu H, Yeganova L, et al. Extracting drug–drug interactions from literature using a rich feature-based linear kernel approach[J]. Journal of biomedical informatics, 2015, 55: 23-30. ------>Kim等人的线性SVM模型，用于DDI task
+2：Bach N, Badaskar S. A review of relation extraction[J]. Literature review for Language and Statistics II, 2007.-------->关于关系抽取的一个综述
+3：R. Bunescu, R. Mooney, A. Ramani, and E. Marcotte, “Integrating co-occurrence statistics with information extraction for robust retrieval of protein interactions from medline,” in Proceedings of the HLT-NAACL Workshop on Linking Natural Language Processing and Biology (BioNLP ’06), New York, NY, USA, 2006.------------->基于共现方法
+4：Blaschke C, Andrade M A, Ouzounis C A, et al. Automatic extraction of biological information from scientific text: protein-protein interactions[C]//Ismb. 1999, 7: 60-67.---------->基于共现方法
+5：Blaschke C, Valencia A. The potential use of SUISEKI as a protein interaction discovery tool[J]. Genome Informatics, 2001, 12: 123-134.--------->基于共现方法
+6：Fundel K, Küffner R, Zimmer R. RelEx—Relation extraction using dependency parse trees[J]. Bioinformatics, 2007, 23(3): 365-371.---------规则方法
+7：Segura-Bedmar I, Martínez P, de Pablo-Sánchez C. A linguistic rule-based approach to extract drug-drug interactions from pharmacological documents[J]. BMC bioinformatics, 2011, 12(2): S1.-------------基于规则的机器学习算法
+8：Segura-Bedmar I, Martínez P, de Pablo-Sánchez C. A linguistic rule-based approach to extract drug-drug interactions from pharmacological documents[J]. BMC bioinformatics, 2011, 12(2): S1.-----------台湾那个用于句法树规则的算法
+9:Cui B, Lin H, Yang Z. SVM-based protein-protein interaction extraction from medline abstracts[C]//Bio-Inspired Computing: Theories and Applications, 2007. BIC-TA 2007. Second International Conference on. IEEE, 2007: 182-185.--------基于机器学习的方式的关系抽取
+10：Erkan G, Özgür A, Radev D R. Semi-supervised classification for extracting protein interaction sentences using dependency parsing[C]//EMNLP-CoNLL. 2007, 7: 228-237.--------基于编辑距离的机器学习算法
+11：Sun C, Lin L, Wang X, et al. Using maximum entropy model to extract protein-protein interaction information from biomedical literature[C]//International Conference on Intelligent Computing. Springer Berlin Heidelberg, 2007: 730-737.-----------基于机器学习的算法
+12：Segura-Bedmar I, Martinez P, de Pablo-Sánchez C. Using a shallow linguistic kernel for drug–drug interaction extraction[J]. Journal of biomedical informatics, 2011, 44(5): 789-804.--------浅层核函数的机器学习算法
+13：Yakushiji A, Tateisi Y, Miyao Y, et al. Event extraction from biomedical papers using a full parser[C]//Pacific Symposium on Biocomputing. 2001, 6: 408-419.--------------日本那个Yu基于规则的方案
+14：De Marneffe M C, MacCartney B, Manning C D. Generating typed dependency parses from phrase structure parses[C]//Proceedings of LREC. 2006, 6(2006): 449-454.------------------Stanford parser
+15：Kulick S, Bies A, Liberman M, et al. Integrated annotation for biomedical information extraction[C]//Proc. of the Human Language Technology Conference and the Annual Meeting of the North American Chapter of the Association for Computational Linguistics (HLT/NAACL). 2004: 61-68.------GENIA用来标注生物领域的句法分析器
+16：Sætre R, Sagae K, Jun'ichi Tsujii. Syntactic features for protein-protein interaction extraction[J]. LBM (Short Papers), 2007, 319.------n-gram核函数
+17：Choi S P, Myaeng S H. Simplicity is better: revisiting single kernel PPI extraction[C]//Proceedings of the 23rd International Conference on Computational Linguistics. Association for Computational Linguistics, 2010: 206-214.--------卷积树核函数
+18：Airola A, Pyysalo S, Björne J, et al. All-paths graph kernel for protein-protein interaction extraction with evaluation of cross-corpus learning[J]. BMC bioinformatics, 2008, 9(11): S2.--------Turku组那个基于图的核函数
+19：Miwa M, Sætre R, Miyao Y, et al. Protein–protein interaction extraction by leveraging multiple kernels and parsers[J]. International journal of medical informatics, 2009, 78(12): e39-e46.------Miwa混合核函数A
+20：Miwa M, Sætre R, Miyao Y, et al. A rich feature vector for protein-protein interaction extraction from multiple corpora[C]//Proceedings of the 2009 Conference on Empirical Methods in Natural Language Processing: Volume 1-Volume 1. Association for Computational Linguistics, 2009: 121-130.-------Miwa混合核函数B
+21：Li L, Guo R, Jiang Z, et al. An approach to improve kernel-based protein–protein interaction extraction by learning from large-scale network data[J]. Methods, 2015, 83: 44-50.----------Li等人柔和词向量的方法
+22：Zeng D, Liu K, Lai S, et al. Relation Classification via Convolutional Deep Neural Network[C]//COLING. 2014: 2335-2344.--------zeng等人利用CNN在sem-eval上面的关系抽取任务
+23：Miwa M, Bansal M. End-to-end relation extraction using lstms on sequences and tree structures[J]. arXiv preprint arXiv:1601.00770, 2016.------miwa等人利用lstm在sem-eval上面关系抽取任务
+24：Hinton G E, Srivastava N, Krizhevsky A, et al. Improving neural networks by preventing co-adaptation of feature detectors[J]. arXiv preprint arXiv:1207.0580, 2012.----------神经网络在图像领域的应用
+25：Graves A, Mohamed A, Hinton G. Speech recognition with deep recurrent neural networks[C]//Acoustics, speech and signal processing (icassp), 2013 ieee international conference on. IEEE, 2013: 6645-6649.---------神经网络在语音识别领域的应用
+26：Yih W, He X, Meek C. Semantic Parsing for Single-Relation Question Answering[C]//ACL (2). 2014: 643-648.--------神经网络在句法分析领域的应用
+27：Shen Y, He X, Gao J, et al. Learning semantic representations using convolutional neural networks for web search[C]//Proceedings of the 23rd International Conference on World Wide Web. ACM, 2014: 373-374.---------神经网络在问答系统，知识检索领域的应用
+28：Kalchbrenner N, Grefenstette E, Blunsom P. A convolutional neural network for modelling sentences[J]. arXiv preprint arXiv:1404.2188, 2014.-------神经网络模型在句子建模方面的应用
+29：Suykens J A K, Vandewalle J. Least squares support vector machine classifiers[J]. Neural processing letters, 1999, 9(3): 293-300.--------讲的SVM
+30：
