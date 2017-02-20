@@ -31,3 +31,19 @@
 31：Bunescu R, Ge R, Kate R J, et al. Comparative experiments on learning information extractors for proteins and their interactions[J]. Artificial intelligence in medicine, 2005, 33(2): 139-155.--------------------Aimed标注的数据集
 32：Giuliano C, Lavelli A, Romano L. Exploiting shallow linguistic information for relation extraction from biomedical literature[C]//EACL. 2006, 18(2006): 401-408.------------------混合核函数对比时候的shallow kernel
 33：Kim S, Yoon J, Yang J, et al. Walk-weighted subsequence kernels for protein-protein interaction extraction[J]. BMC bioinformatics, 2010, 11(1): 107.---------混合核函数对比时候的walk weight kernel
+34：Harris Z S. Distributional structure[J]. Word, 1954, 10(2-3): 146-162.----------------关于词向量的假设
+35：Goldberg Y. A primer on neural network models for natural language processing[J]. Journal of Artificial Intelligence Research, 2016, 57: 345-420.----------关于神经网络在自然语言处理方面的应用的综述
+36：Mikolov T, Chen K, Corrado G, et al. Efficient estimation of word representations in vector space[J]. arXiv preprint arXiv:1301.3781, 2013.-----------word2vec引用
+37：Mikolov T, Sutskever I, Chen K, et al. Distributed representations of words and phrases and their compositionality[C]//Advances in neural information processing systems. 2013: 3111-3119.----------------Word2vec引用
+38：Pennington J, Socher R, Manning C D. Glove: Global Vectors for Word Representation[C]//EMNLP. 2014, 14: 1532-1543.--------------Glove的引用
+39：Collobert R, Weston J, Bottou L, et al. Natural language processing (almost) from scratch[J]. Journal of Machine Learning Research, 2011, 12(Aug): 2493-2537.------------------SENNA对应的词向量的引用
+40：Krizhevsky A, Sutskever I, Hinton G E. Imagenet classification with deep convolutional neural networks[C]//Advances in neural information processing systems. 2012: 1097-1105.------------------CNN在图像方面的应用
+41：Lawrence S, Giles C L, Tsoi A C, et al. Face recognition: A convolutional neural-network approach[J]. IEEE transactions on neural networks, 1997, 8(1): 98-113.---------------------------------------------CNN在图像处理方面的应用
+42：Elman, Jeffrey L. (1990). "Finding Structure in Time". Cognitive Science. 14 (2): 179–211. doi:10.1016/0364-0213(90)90002----------Elman递归神经网络
+43：Jordan, Michael I. (1986). "Serial Order: A Parallel Distributed Processing Approach".-------------Jordan递归神经网络
+44：Hochreiter, Sepp; and Schmidhuber, Jürgen; Long Short-Term Memory, Neural Computation, 9(8):1735–1780, 1997------lstm RNN
+45：Chung J, Gulcehre C, Cho K H, et al. Empirical evaluation of gated recurrent neural networks on sequence modeling[J]. arXiv preprint arXiv:1412.3555, 2014.-------------GRU RNN
+46：Sundermeyer M, Schlüter R, Ney H. LSTM Neural Networks for Language Modeling[C]//Interspeech. 2012: 194-197.-----------lstm 语言模型
+47：Graves A, Fernández S, Gomez F, et al. Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks[C]//Proceedings of the 23rd international conference on Machine learning. ACM, 2006: 369-376.-------------lstm用来做序列标注
+48：Segura Bedmar I, Martínez P, Herrero Zazo M. Semeval-2013 task 9: Extraction of drug-drug interactions from biomedical texts (ddiextraction 2013)[C]. Association for Computational Linguistics, 2013.-----------------DDIExtraction任务的数据标注
+49：
