@@ -5,7 +5,7 @@
 5：Blaschke C, Valencia A. The potential use of SUISEKI as a protein interaction discovery tool[J]. Genome Informatics, 2001, 12: 123-134.--------->基于共现方法
 6：Fundel K, Küffner R, Zimmer R. RelEx—Relation extraction using dependency parse trees[J]. Bioinformatics, 2007, 23(3): 365-371.---------规则方法
 7：Segura-Bedmar I, Martínez P, de Pablo-Sánchez C. A linguistic rule-based approach to extract drug-drug interactions from pharmacological documents[J]. BMC bioinformatics, 2011, 12(2): S1.-------------基于规则的机器学习算法
-8：Segura-Bedmar I, Martínez P, de Pablo-Sánchez C. A linguistic rule-based approach to extract drug-drug interactions from pharmacological documents[J]. BMC bioinformatics, 2011, 12(2): S1.-----------台湾那个用于句法树规则的算法
+8：Kao H Y, Tang Y T, Wang J F. Evolutional dependency parse trees for biological relation extraction[C]//Bioinformatics and Bioengineering (BIBE), 2011 IEEE 11th International Conference on. IEEE, 2011: 167-174.-----------台湾那个用于句法树规则的算法
 9:Cui B, Lin H, Yang Z. SVM-based protein-protein interaction extraction from medline abstracts[C]//Bio-Inspired Computing: Theories and Applications, 2007. BIC-TA 2007. Second International Conference on. IEEE, 2007: 182-185.--------基于机器学习的方式的关系抽取
 10：Erkan G, Özgür A, Radev D R. Semi-supervised classification for extracting protein interaction sentences using dependency parsing[C]//EMNLP-CoNLL. 2007, 7: 228-237.--------基于编辑距离的机器学习算法
 11：Sun C, Lin L, Wang X, et al. Using maximum entropy model to extract protein-protein interaction information from biomedical literature[C]//International Conference on Intelligent Computing. Springer Berlin Heidelberg, 2007: 730-737.-----------基于机器学习的算法
@@ -46,4 +46,7 @@
 46：Sundermeyer M, Schlüter R, Ney H. LSTM Neural Networks for Language Modeling[C]//Interspeech. 2012: 194-197.-----------lstm 语言模型
 47：Graves A, Fernández S, Gomez F, et al. Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks[C]//Proceedings of the 23rd international conference on Machine learning. ACM, 2006: 369-376.-------------lstm用来做序列标注
 48：Segura Bedmar I, Martínez P, Herrero Zazo M. Semeval-2013 task 9: Extraction of drug-drug interactions from biomedical texts (ddiextraction 2013)[C]. Association for Computational Linguistics, 2013.-----------------DDIExtraction任务的数据标注
-49：
+Chowdhury M F M, Lavelli A. FBK-irst: A multi-phase kernel based approach for drug-drug interaction detection and classification that exploits linguistic information[J]. Atlanta, Georgia, USA, 2013, 351: 53.
+Thomas P, Neves M, Rocktäschel T, et al. WBI-DDI: drug-drug interaction extraction using majority voting[C]//Second Joint Conference on Lexical and Computational Semantics (* SEM). 2013, 2: 628-635.
+
+Björne J, Kaewphan S, Salakoski T. UTurku: drug named entity recognition and drug-drug interaction extraction using SVM classification and domain knowledge[C]//Second Joint Conference on Lexical and Computational Semantics (* SEM). 2013, 2: 651-659.
